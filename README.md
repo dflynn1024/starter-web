@@ -15,3 +15,5 @@ text goes here
 ## Another new section
 
 more change
+
+### Copyright
