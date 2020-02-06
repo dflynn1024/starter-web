@@ -18,4 +18,4 @@ more change, please fork
 
 ### Copyright
 
-This is my new copyfright, now with more changes.
+2020 - All rights reserved.
