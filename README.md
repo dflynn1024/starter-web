@@ -18,4 +18,4 @@ more change, please fork
 
 ### Copyright
 
-2020 - All rights reserved.
+2020 - All rights reserved. Anoter fix after stash.
